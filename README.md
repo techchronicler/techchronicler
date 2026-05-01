@@ -1,15 +1,15 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="left" valign="middle">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRiMXR3ejBpbmk4a2FmeW04enAxbDN3bG80aXhyaGVwaGFhZXh4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif" width="100"/>
+      <td align="right" valign="middle">
+        <img src="https://i.giphy.com/ML15sUZFNyMy0Yv55m.webp" width="100" alt="GIF"/>
       </td>
       <td align="left" valign="middle">
         <b>👋 Привет, я — технический писатель</b><br>
         <i>Превращаю хаос в порядок, а сложное — в понятное.</i><br>
-        <img src="https://readme-typing-svg.demolab.com?lines=Technical+writer;User+manual;Instruction+manual;Training+materials&font=Fira%20Code&width=450&height=40&color=c99eff&vCenter=true&pause=1000&size=20" />
+        <img src="https://readme-typing-svg.demolab.com?lines=Technical+writer;User+manual;Instruction+manual;Training+materials&font=Fira%20Code&width=450&height=40&color=c99eff&vCenter=true&pause=1000&size=20" alt="Typing effect"/>
       </td>
-    </table>
+    </tr>
   </table>
 </div>
 
