@@ -1,19 +1,15 @@
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="right" valign="middle">
-        <img src="https://i.giphy.com/ML15sUZFNyMy0Yv55m.webp" width="100" alt="GIF"/>
-      </td>
-      <td align="left" valign="middle">
-        <b>👋 Привет, я — технический писатель</b><br>
-        <i>Превращаю хаос в порядок, а сложное — в понятное.</i><br>
-        <img src="https://readme-typing-svg.demolab.com?lines=Technical+writer;User+manual;Instruction+manual;Training+materials&font=Fira%20Code&width=450&height=40&color=c99eff&vCenter=true&pause=1000&size=20" alt="Typing effect"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.giphy.com/ML15sUZFNyMy0Yv55m.webp" width="100" alt="GIF"/>
+  <br><br>
+  <b>👋 Привет, я — технический писатель</b><br>
+  <i>Превращаю хаос в порядок, а сложное — в понятное.</i>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?lines=Technical+writer;User+manual;Instruction+manual;Training+materials&font=Fira%20Code&width=450&height=40&color=c99eff&vCenter=true&pause=1000&size=20&center=true" alt="Typing effect"/>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
 
 ## 🛠️ Технический стек
 
@@ -26,11 +22,14 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white" height="20"/>
 </div>
 
+<br>
+
 <p align="center">
   <a href="https://github.com/techchronicler">
-    <img src="https://github-readme-stats.vercel.app/api?username=techchronicler&show_icons=true&theme=buefy&icon_color=c99eff" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-omega-kohl.vercel.app/api?username=techchronicler&show_icons=true&icon_color=c99eff&title_color=c99eff&bg_color=00000000&hide_border=true&text_color=000000" alt="GitHub Stats" />
   </a>
 </p>
+
 
 ## 🧩 Другое
 
@@ -52,7 +51,8 @@
   </a>
 </div>
 
----
+<br>
+<br>
 
 <div align="center">
   <i>📖 «Я пишу не для того, чтобы показать, как много я знаю, а чтобы помочь пользователю сделать то, что ему нужно. Голос пользователя — главный ориентир»</i>
