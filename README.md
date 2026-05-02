@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/techchronicler">
-    <img src="https://github-readme-stats-omega-kohl.vercel.app/api?username=techchronicler&show_icons=true&icon_color=c99eff&title_color=c99eff&bg_color=00000000&hide_border=true&text_color=000000" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-omega-kohl.vercel.app/api?username=techchronicler&show_icons=true&icon_color=c99eff&title_color=c99eff&bg_color=white&hide_border=true&text_color=000000" alt="GitHub Stats" />
   </a>
 </p>
 
