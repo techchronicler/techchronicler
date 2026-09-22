@@ -34,15 +34,7 @@
 ## 🧩 Другое
 
 <div align="center">
-  <a href="https://vk.com/telepuzikv">
-    <img src="https://img.shields.io/badge/🎨_Канал_творчества-4A76A8?style=for-the-badge&logo=vk&logoColor=white" height="25"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/DuschevnyCosiness">
-    <img src="https://img.shields.io/badge/📝_Telegram-блог-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/IT_twriter">
+   <a href="https://t.me/IT_twriter">
     <img src="https://img.shields.io/badge/✈️_Рабочий-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
   </a>
   &nbsp;&nbsp;
